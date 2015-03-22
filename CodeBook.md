@@ -92,7 +92,7 @@ The tidy dataset is composed of 180 observations and 88 variables. Besides the *
 Summary description
 ----------------
 
-This dataset presents the **mean** value for each **subject** and for each **activity* he/she performed.
+This dataset presents the **mean** value for each **subject** and for each **activity** he/she performed.
 
 Variables description
 ----------------
